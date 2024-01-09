@@ -1,0 +1,30 @@
+== Таблица 1.1 Методы
+
+|===
+|№ |request|responce
+
+|1
+|get something
+|receive something
+
+|2
+|post something
+|receive something
+
+|3
+|patch something
+|receive something
+
+|===
+==== Заголовок
+`что это такое`
+
+#это что-то интересное#
+
+[.line-through]#очень интересное#
+
+ ля-ля
+
+image::image-2024-01-09-19-25-29-282.png[]
+
+ля-ля-фа-соль
